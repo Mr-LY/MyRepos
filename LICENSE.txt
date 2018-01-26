@@ -7,3 +7,7 @@ This is change for test Branch dev!
 -----------------------------
 
 This is for test merge conflict!
+
+-----------------------------
+
+This if for test --no--ff mode!
