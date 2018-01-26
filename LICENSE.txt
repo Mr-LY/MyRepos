@@ -6,4 +6,4 @@ This is change for test Branch dev!
 
 -----------------------------
 
-This is test conflict!
+This is for test merge conflict!
