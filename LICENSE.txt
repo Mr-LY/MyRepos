@@ -3,3 +3,6 @@ This is test file for Branch!
 -----------------------------
 
 This is change for test Branch dev!
+
+-----------------------------
+This is for test merge conflict!
